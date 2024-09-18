@@ -41,3 +41,6 @@
 | Inefficient memory utilization | Relatively efficient memory utilization |
 | Time complexity increases with data | Time complexity remains the same | 
 
+![dsa_img1](https://github.com/user-attachments/assets/d15d4b61-bbe5-4c81-8116-3a54892df4c8)
+
+
