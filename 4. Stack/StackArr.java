@@ -1,5 +1,3 @@
-package Stack;
-
 public class StackArr {
 
     private int top;
