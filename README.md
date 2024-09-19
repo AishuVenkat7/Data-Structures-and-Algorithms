@@ -43,4 +43,17 @@
 
 ![dsa_img1](https://github.com/user-attachments/assets/d15d4b61-bbe5-4c81-8116-3a54892df4c8)
 
+## Time and Space complexity
+
+## Linear Data Structures
+
+| **Data Structure**            | **Access** | **Search** | **Insertion** | **Deletion**  | **Space Complexity** |
+|-------------------------------|------------|------------|---------------|---------------|----------------------|
+| **Array**                     | O(1)       | O(n)       | O(n)          | O(n)          | O(n)                 |
+| **String**                    | O(1)       | O(n)       | O(n)          | O(n)          | O(n)                 |
+| **Linked List**               | O(n)       | O(n)       | O(1)          | O(1)          | O(n)                 |
+| **Stack (Array/Linked List)** | O(1) (peek)| O(n)       | O(1) (Push)   | O(1) (Pop)    | O(n)                 |
+| **Queue (Array/Linked List)** | O(1) (peek)| O(n)       | O(1) (Enqueue)| O(1) (Dequeue)| O(n)                 |
+
+
 
