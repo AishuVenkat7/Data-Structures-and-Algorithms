@@ -16,7 +16,7 @@ public class QueueLL {
         }
     }
 
-    public Queue() {
+    public QueueLL() {
         front = null;
         rear = null;
         length = 0;
