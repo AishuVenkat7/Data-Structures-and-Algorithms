@@ -27,11 +27,15 @@ An adjacency matrix is a 2D array where each element represents the presence of 
 For a graph with vertices 0, 1, 2 and 3.
 Edges 0->1->2->3->0. the adjacency matrix looks like:
 
+```
+
    0  1  2  3
 0 [0, 1, 0, 1]
 1 [1, 0, 1, 0]
 2 [0, 1, 0, 1]
 3 [1, 0, 1, 0]
+
+```
 
 ### 2. Adjacency List
 
@@ -40,9 +44,13 @@ The index of the array represents a vertex and each element in its linked list r
 
 #### Example:
 
+```
+
 Array -> LinkedList
   0   -> [1, 3]
   1   -> [0, 3]
   2   -> [1, 3]
   3   -> [0, 2]
+
+```
 
