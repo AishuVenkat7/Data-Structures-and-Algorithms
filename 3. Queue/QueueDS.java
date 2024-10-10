@@ -1,12 +1,14 @@
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
+import java.util.ArrayDeque;
 
 public class QueueDS {
 
     public static void main(String[] args) {
         // Creating Queue using the LinkedList class
         Queue<Integer> numbers = new LinkedList<>();
+        // Queue<Integer> arrNum = new ArrayDeque<>();
 
         // offer(add) elements to the Queue
         numbers.offer(1);
